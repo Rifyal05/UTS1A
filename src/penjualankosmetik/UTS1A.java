@@ -15,7 +15,7 @@ public class UTS1A {
         double totalInvoice;
 
         // Mencetak header
-        System.out.println("====== Penjualan Kosmetik ======");
+        System.out.println(" Penjualan Kosmetik ");
 
         // Menampilkan daftar kosmetik
         System.out.println("Daftar Kosmetik");
