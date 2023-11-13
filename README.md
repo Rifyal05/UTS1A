@@ -1,4 +1,1 @@
-# Abcd-
-# Abcd-
-# UTS1A
-# UTS1A
+maaf tadi masih bingung cara bagiin kode ke github. ehhe
